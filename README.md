@@ -1,5 +1,7 @@
 # typescript-cookbook
 
+This repository contains the code for [my notes on TypeScript Cookbook](https://bagerbach.com/books/typescript-cookbook).
+
 To install dependencies:
 
 ```bash
